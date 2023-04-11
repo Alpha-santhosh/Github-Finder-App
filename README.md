@@ -39,6 +39,6 @@
 ## Screenshots -
 - Sign In Page
 
-![Sign In Page](https://raw.githubusercontent.com/Alpha-santhosh/Netflix-Clone/main/src/Img/netflix-signin.jpg)
+![Sign In Page](https://raw.githubusercontent.com/Alpha-santhosh/Github-Finder-App/main/Github_Finder.png)
 
 
