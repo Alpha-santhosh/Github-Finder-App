@@ -2,8 +2,8 @@
 
 ## Project Overview -
 - The Github Finder is a web application built using HTML5, CSS3, and JavaScript that allows users to search for Github profiles using a Github username. The application makes use of the Github API to retrieve user data and display it on the web page.
--The application consists of a simple user interface that includes a search bar where users can enter a Github username to search for. Once a valid username is entered and the search button is clicked, the application sends a request to the Github API to retrieve user data, such as the user's name, profile picture, location, bio, number of followers, number of following, and number of public repositories.
--The retrieved data is then displayed on the web page in a clean and organized format using HTML5 and CSS3. To enhance the user experience, the application also makes use of Material UI, a popular CSS framework, to style the user interface and provide a consistent look and feel across all devices.
+- The application consists of a simple user interface that includes a search bar where users can enter a Github username to search for. Once a valid username is entered and the search button is clicked, the application sends a request to the Github API to retrieve user data, such as the user's name, profile picture, location, bio, number of followers, number of following, and number of public repositories.
+- The retrieved data is then displayed on the web page in a clean and organized format using HTML5 and CSS3. To enhance the user experience, the application also makes use of Material UI, a popular CSS framework, to style the user interface and provide a consistent look and feel across all devices.
 
 ## Goals - 
 - To create a web application that allows users to search for Github profiles using a Github username.
